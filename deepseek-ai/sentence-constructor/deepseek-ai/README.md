@@ -1,7 +1,11 @@
-##Claude Haiku
->I have the free version of Claude
+### Deepseek v3 
+Testing out the deepseek v3 as it is all the hype. 
 
-##Below you can find a guide for Claude Anthropic
+Deepseek seems to be very powerful. # Activated Params	37B, # Total Params	671B 
 
+## Prompt guide 
+You can access the prompting guide for deepseek below.
+Link: https://www.reddit.com/r/coolguides/comments/1ie65vi/a_cool_guide_about_deepseek_prompt_cheatsheet/ 
 
-##Prompt guide: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+## NB: The document is just a cheatsheet as an official prompt guide for deepseeek is not available yet
+
